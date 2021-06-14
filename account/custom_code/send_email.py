@@ -25,4 +25,4 @@ def send_email(subject,email_address,messageToSend):
         print(e)
 
 
-send_email("hi" , 'stiveckamash@gmail.com' , "heloooo")
+# send_email("hi" , 'stiveckamash@gmail.com' , "heloooo")

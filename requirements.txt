@@ -11,6 +11,7 @@ jedi==0.17.0
 flake8
 coverage
 parso==0.7.0
+twilio == 6.59.1
 pexpect==4.8.0
 pickleshare==0.7.5
 prompt-toolkit==3.0.5
@@ -19,8 +20,10 @@ ptyprocess==0.6.0
 Pygments==2.6.1
 pylint==2.5.2
 pytz==2020.1
+bcrypt ==3.2.0
 pytest==5.4.2
 rstcheck==3.3.1
+jwt==1.7.1
 six==1.14.0
 sqlparse==0.3.1
 traitlets==4.3.3
@@ -39,3 +42,4 @@ cffi==1.14.3
 chardet==3.0.4
 cryptography==3.2.1
 defusedxml==0.7.0rc1
+re==2.2.1
